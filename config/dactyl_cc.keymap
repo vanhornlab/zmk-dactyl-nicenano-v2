@@ -90,10 +90,10 @@
     };
 
 // {
-/    chosen {
-/        zmk,keyboard = &niceview;
-/    };
-/};
+//    chosen {
+//        zmk,keyboard = &niceview;
+//    };
+//};
 
     keymap {
         compatible = "zmk,keymap";
