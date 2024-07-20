@@ -89,6 +89,12 @@
         //   };            
     };
 
+/ {
+    chosen {
+        zmk,keyboard = &niceview;
+    };
+};
+
     keymap {
         compatible = "zmk,keymap";
 
