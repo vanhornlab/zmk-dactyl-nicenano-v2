@@ -115,8 +115,8 @@
     &kp TAB       &kp Q    &kp W         &kp E       &kp R       &kp T                &kp Y       &kp U      &kp I      &kp O        &kp P     &kp EQUAL
     &kp CAPS      &kp A    &kp S         &kp D       &kp F       &kp G                &kp H       &kp J      &kp K      &kp L        &kp N5    &kp APOS
     &kp LSHIFT    &kp Z    &kp X         &kp C       &kp V       &kp B                &kp N       &kp M      &kp COMMA  &kp DOT      &kp FSLH  &kp RSHIFT
-    &kp N8        &kp LALT &kp N2        &kp N9      &kp N4      &kp N5               &kp N6      &kp N7     &kp LEFT   &kp DOWN     &kp UP    &kp RIGHT
-                           &kp TAB       &kp DEL     &kp DEL     &kp BSPC             &kp SPACE   &kp ENTER  &kp N4 &kp N3
+    &kp N8        &kp LALT &kp N2        &kp N9      &kp N7      &kp N5               &kp N6      &kp N7     &kp LEFT   &kp DOWN     &kp UP    &kp RIGHT
+                           &kp TAB       &kp RBKT     &kp DEL     &kp N0             &kp LBKT   &kp BSPC  &kp SPACE &kp END
                >;
            };
 
