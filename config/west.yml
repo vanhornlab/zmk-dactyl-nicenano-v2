@@ -2,10 +2,15 @@ manifest:
   remotes:
     - name: zmkfirmware
       url-base: https://github.com/zmkfirmware
+    - name: m165437 #wvh added
+      url-base: https://github.com/M165437 #wvh added  
   projects:
     - name: zmk
       remote: zmkfirmware
       revision: main
       import: app/west.yml
+    - name: nice-view-gem #wvh added  
+      remote: m165437 #wvh added  
+      revision: main #wvh added  
   self:
     path: config
